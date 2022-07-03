@@ -1,0 +1,15 @@
+#create new users from csv
+
+FirstName,LastName,Username,Department,Password
+Hazel,Luca,LucaH,Marketing,Try@gainL@ter!
+Fergal,OShea,OSheaF,Operations,Try@gainL@ter!
+Andrzej,Klonowski,KlonowskiA,Operations,Try@gainL@ter!
+Hailie,Brennan,BrennanH,IT,Try@gainL@ter!
+Adam,Brennan,BrennanAd,EXCO,Try@gainL@ter!
+Aiden,Brennan,BrennanA,EXCO,Try@gainL@ter!
+Stephen,Moran,MoranS,EXCO,Try@gainL@ter!
+Joan,Moran,MoranJ,EXCO,Try@gainL@ter!
+Joel,Koepka,KoepkaJ,Finance,Try@gainL@ter!
+Mary,Morris,MorrisM,Purchasing,Try@gainL@ter!
+Agnieszka,Skorupa,SkorupaA,Sales,Try@gainL@ter!
+Angie,Brennan,BrennanAn,Operations,Try@gainL@ter!
